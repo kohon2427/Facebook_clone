@@ -140,6 +140,15 @@ div {
     margin: 0 auto;
     width: 980px;
 }
+#pageFooter .pageFooterLinkList {
+    line-height: 1.6;
+    margin-left: -20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
 @media screen and (max-width: 520px) {
   .container {
